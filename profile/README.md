@@ -19,6 +19,6 @@ Write the code, regression test every PR on real devices, and leave monitoring a
   <img alt="Three lanes, Write, Verify and Watch: a coding agent in the terminal opens a pull request, PR Lens draws the architecture and end-to-end tests run on real devices, the change ships to production, and monitoring agents feed any regression back to the agent" src="lifecycle.light.svg">
 </picture>
 
-Ship at agent speed. Break nothing.
+<h2 align="center">Ship at agent speed. Break nothing.</h2>
 
 <h3 align="center"><a href="https://www.coldtea.ai/?utm_source=ct_org_readme&amp;utm_medium=github">Try Coldtea</a></h3>
