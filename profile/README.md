@@ -20,3 +20,5 @@ Write the code, regression test every PR on real devices, and leave monitoring a
 </picture>
 
 Ship at agent speed. Break nothing.
+
+<h3 align="center"><a href="https://www.coldtea.ai/?utm_source=ct_org_readme&amp;utm_medium=github">Try Coldtea</a></h3>
